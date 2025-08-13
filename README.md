@@ -2,9 +2,6 @@
 
 A sleek and modern desktop music player built with Next.js, React, and Electron.
 
-![Diamond Player Screenshot](https://via.placeholder.com/800x500.png?text=Diamond+Player+App+Screenshot)
-_(You can replace this with a screenshot of your application)_
-
 ## ✨ Key Features
 
 - **Local Music Playback:** Play your favorite audio files directly from your computer.
